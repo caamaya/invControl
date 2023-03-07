@@ -1,11 +1,10 @@
 Package: invControl
-Title: InvControl
+Title: Functions for Inventory Control
 Version: 0.0.0.9001
-Authors@R: 
-    person("Juan", "Roa", , "jf.roa10@uniandes.edu.co", role = c("aut", "cre"), comment = c(ORCID ="YOUR-ORCID-ID"))
-    person("Ciro Alberto", "Amaya", role = "aut", comment = c(ORCID = "0000-0003-1537-1616")),
-Description: Some routines for find inventory policies).
-License: MIT + file LICENSE
+Author: Juan Roa & Ciro Amaya
+Maintainer: Ciro Amaya <ca.amaya@uniandes.edu.co>
+Description: Implements different inventory models, the bullwhip effect and other supply chain performance variables. Marchena Marlene (2010) <arXiv:1009.3977>.
+License: GPL-3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
